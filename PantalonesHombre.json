@@ -1,0 +1,66 @@
+{
+    "PantalonesHombre": [
+        {
+            "id": 1,
+            "marca": "Dockers",
+            "nombre": "SMART 360 TAPERED - Pantalones chinos",
+            "imagen": "https://img01.ztat.net/article/DO/82/2E/02/5C/11/DO822E025-C11@10.jpg?imwidth=1800",
+            "imagen2": "https://img01.ztat.net/article/DO/82/2E/02/5C/11/DO822E025-C11@8.jpg?imwidth=1800"
+        },
+        {
+            "id": 2,
+            "marca": "Adidas Originals",
+            "nombre": "OUTLINE - Pantalones deportivos",
+            "imagen": "https://img01.ztat.net/article/AD/12/2E/07/CQ/11/AD122E07C-Q11@4.jpg?imwidth=1800",
+            "imagen2": "https://img01.ztat.net/article/AD/12/2E/07/CQ/11/AD122E07C-Q11@9.jpg?imwidth=1800"
+        },{
+            "id": 3,
+            "marca": "Dockers",
+            "nombre": "SMART 360 TAPERED - Pantalones chinos",
+            "imagen": "https://img01.ztat.net/article/DO/82/2E/02/5C/11/DO822E025-C11@10.jpg?imwidth=1800",
+            "imagen2": "https://img01.ztat.net/article/DO/82/2E/02/5C/11/DO822E025-C11@8.jpg?imwidth=1800"
+        },{
+            "id": 4,
+            "marca": "Dockers",
+            "nombre": "SMART 360 TAPERED - Pantalones chinos",
+            "imagen": "https://img01.ztat.net/article/DO/82/2E/02/5C/11/DO822E025-C11@10.jpg?imwidth=1800",
+            "imagen2": "https://img01.ztat.net/article/DO/82/2E/02/5C/11/DO822E025-C11@8.jpg?imwidth=1800"
+        },{
+            "id": 5,
+            "marca": "Dockers",
+            "nombre": "SMART 360 TAPERED - Pantalones chinos",
+            "imagen": "https://img01.ztat.net/article/DO/82/2E/02/5C/11/DO822E025-C11@10.jpg?imwidth=1800",
+            "imagen2": "https://img01.ztat.net/article/DO/82/2E/02/5C/11/DO822E025-C11@8.jpg?imwidth=1800"
+        },{
+            "id": 6,
+            "marca": "Dockers",
+            "nombre": "SMART 360 TAPERED - Pantalones chinos",
+            "imagen": "https://img01.ztat.net/article/DO/82/2E/02/5C/11/DO822E025-C11@10.jpg?imwidth=1800",
+            "imagen2": "https://img01.ztat.net/article/DO/82/2E/02/5C/11/DO822E025-C11@8.jpg?imwidth=1800"
+        },{
+            "id": 7,
+            "marca": "Dockers",
+            "nombre": "SMART 360 TAPERED - Pantalones chinos",
+            "imagen": "https://img01.ztat.net/article/DO/82/2E/02/5C/11/DO822E025-C11@10.jpg?imwidth=1800",
+            "imagen2": "https://img01.ztat.net/article/DO/82/2E/02/5C/11/DO822E025-C11@8.jpg?imwidth=1800"
+        },{
+            "id": 8,
+            "marca": "Dockers",
+            "nombre": "SMART 360 TAPERED - Pantalones chinos",
+            "imagen": "https://img01.ztat.net/article/DO/82/2E/02/5C/11/DO822E025-C11@10.jpg?imwidth=1800",
+            "imagen2": "https://img01.ztat.net/article/DO/82/2E/02/5C/11/DO822E025-C11@8.jpg?imwidth=1800"
+        },{
+            "id": 9,
+            "marca": "Dockers",
+            "nombre": "SMART 360 TAPERED - Pantalones chinos",
+            "imagen": "https://img01.ztat.net/article/DO/82/2E/02/5C/11/DO822E025-C11@10.jpg?imwidth=1800",
+            "imagen2": "https://img01.ztat.net/article/DO/82/2E/02/5C/11/DO822E025-C11@8.jpg?imwidth=1800"
+        },{
+            "id": 10,
+            "marca": "Dockers",
+            "nombre": "SMART 360 TAPERED - Pantalones chinos",
+            "imagen": "https://img01.ztat.net/article/DO/82/2E/02/5C/11/DO822E025-C11@10.jpg?imwidth=1800",
+            "imagen2": "https://img01.ztat.net/article/DO/82/2E/02/5C/11/DO822E025-C11@8.jpg?imwidth=1800"
+        }
+    ]
+}
